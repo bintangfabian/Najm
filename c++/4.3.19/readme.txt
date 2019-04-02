@@ -1,2 +1,1 @@
-membuat kalkulator
-
+membuat kalkulator sederhana
